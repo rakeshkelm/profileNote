@@ -1,6 +1,4 @@
 # profile
 Profile and Resume
 
-Rakesh Kukatla
-
-Militia
+Rakesh Kukatla, Militia
