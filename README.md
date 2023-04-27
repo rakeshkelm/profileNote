@@ -1,7 +1,7 @@
 # profile
 Rakesh Kukatla, Independent interest and Militia, On the move
 
-https://onthemove.planet.independent.militia
+https://onthemove.independent.planet.militia
 
 Resume    
 Rakesh Kukatla, Consultant and Advisor
