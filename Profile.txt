@@ -1,11 +1,11 @@
-﻿Profile
+﻿Profile - Militia
 
 
 Rakesh Kukatla
 rakeshkelm@gmail.com
 smart apps : rakeshbingk@gmail.com
-p2p : git (rakeshkelm)
-web : github.com/rakeshkelm/notes
+p2p : git rakeshkelm
+web : github.com/rakeshkelm
 Cloud : Skype, Zoom, Teams and other
 7 Elm Street
 Exurban New York-Binghamton, NY, USA.
