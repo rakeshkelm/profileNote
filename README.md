@@ -1,5 +1,5 @@
 # profile
-Rakesh Kukatla, Independent and Militia
+Rakesh Kukatla, Independent interest and Militia
 
 Resume    
 Rakesh Kukatla, Consultant and Advisor
