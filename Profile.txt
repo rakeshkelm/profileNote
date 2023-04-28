@@ -21,7 +21,7 @@ Rakesh Kukatla
 Nov 2021 - present
 Exurban New York-Binghamton, NY, USA.
 Earth Backup
-p2p : git (rakeshkelm)
+p2p : git rakeshkelm
 web : github.com/rakeshkelm/notes
 Finished USA route (Federal Reserve Bank - 2021), Southern route (Mexico - 2022) and starting on Northern route (Alaska - May 2023).
 
