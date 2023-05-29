@@ -1,5 +1,5 @@
 # profile
-Rakesh Kukatla, Independent interest and Militia, On the move (Sucking)
+Rakesh Kukatla, Independent interest and Militia, On the move (Suc-king)
 
 https://onthemove.planet.militia
 
