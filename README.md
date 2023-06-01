@@ -6,4 +6,4 @@ https://onthemove.planet.militia
 Resume    
 Rakesh Kukatla, Consultant and Advisor
 
-Check out, Profile.txt in this folder
+Check out, Profile.txt in this folder (Actively updated)
