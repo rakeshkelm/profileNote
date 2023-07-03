@@ -12,9 +12,9 @@ then - Check out, profileNote.txt
 
 For more details,
 
-Check, Ideas
+Check, Ideas on the move
 
-at https://github.com/irakeshkelm/ideas (actively updated)
+at https://github.com/irakeshkelm/ideasonthemove (actively updated)
 
 then - Check out, ideas.txt
 
