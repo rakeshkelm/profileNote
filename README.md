@@ -2,7 +2,7 @@ Profile note - from, Rakesh Kukatla
 
 Independent interest and Militia (Suc-king)
 
-at htps://profilenote.planet.militia
+at htps://profilenote.media.militia
 
 Then - Check Profile Note
 
