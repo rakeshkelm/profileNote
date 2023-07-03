@@ -4,15 +4,15 @@ Independent interest and Militia (Suc-king)
 
 at htps://profilenote.media.militia
 
-Then - Check Profile Note
+Check - Profile Note
 
-at https://github.com/rakeshkelm/profileNote (actively updated)
+at https://github.com/rakeshkelm/profileNote
 
 then - Check out, profileNote.txt
 
 For more details,
 
-Check, Ideas on the move
+Continue to - Ideas on the move
 
 at https://github.com/irakeshkelm/ideasonthemove (actively updated)
 
