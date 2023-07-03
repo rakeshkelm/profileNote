@@ -1,10 +1,23 @@
-# profile
-Rakesh Kukatla, Independent interest and Militia, On the move (Suc-king)
+Profile note - from, Rakesh Kukatla
 
-https://onthemove.planet.militia
+Independent interest and Militia (Suc-king)
 
-Check out, Profile.txt in this folder (Actively updated)
+at htps://profilenote.planet.militia
 
-For more details, Check out
+Then - Check Profile Note
 
-https://github.com/irakeshkelm/iirakeshkelm (Actively updated)
+at https://github.com/rakeshkelm/profileNote (actively updated)
+
+then - Check out, profileNote.txt
+
+For more details,
+
+Check, Ideas
+
+at https://github.com/irakeshkelm/ideas (actively updated)
+
+then - Check out, ideas.txt
+
+Build and operationalize a planet.
+
+Expand and update Independent interest.
